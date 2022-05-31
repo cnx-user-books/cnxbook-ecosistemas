@@ -1,0 +1,19 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="es">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11650</md:content-id>
+    <md:title>Ecosistemas</md:title>
+    <md:language>es</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>dd5dd939-be09-4508-87ce-8e3047c8fc62</md:uuid>
+<md:slug>ecosistemas</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m47776"/>
+    <col:module document="m43240"/>
+    <col:module document="m46873"/>
+    <col:module document="m44858"/>
+    <col:module document="m44859"/>
+    <col:module document="m46874"/>
+    <col:module document="m47264"/>
+  </col:content>
+</col:collection>
